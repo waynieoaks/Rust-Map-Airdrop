@@ -6,6 +6,8 @@ Each drop is randomly within a blue circular radius marker - giving players a ro
 
 This keeps the thrill of the hunt while improving visibility for casual or PvE servers.
 
+![Map Airdrop](https://raw.githubusercontent.com/waynieoaks/Rust-Map-Airdrop/main/images/Map-Airdrop.png)
+
 ##  Features
 * Marks random airdrops with a blue map radius indicator
 * Marker only shows the approximate drop area, not the exact spot
