@@ -1,7 +1,7 @@
 # Map Airdrop
 ## An Oxide plugin for Rust
 
-Map Airdrop automatically marks random airdrops on the in-game map.
+**Map Airdrop** automatically marks random airdrops on the in-game map.
 Each drop is randomly within a blue circular radius marker - giving players a rough area to search, rather than an exact pin location.
 
 This keeps the thrill of the hunt while improving visibility for casual or PvE servers.
